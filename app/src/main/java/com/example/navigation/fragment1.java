@@ -142,7 +142,7 @@ public class fragment1 extends Fragment {
 
     }
 
-    File photoDir=new File("/mnt/sdcard/Pictures/CameraXPhotos");
+    File photoDir = new File("/mnt/sdcard/Pictures/CameraXPhotos");
 
     private void capturePhoto(File photoDir) {
 
